@@ -5,12 +5,17 @@
 export const environment = {
   production: false,
   firebase: {
-
+    apiKey: 'AIzaSyDg2a5g5xlMOc0J3fGZLa_8kCmqDTqXa3s',
+    authDomain: 'au-ddotx-firebase.firebaseapp.com',
+    projectId: 'au-ddotx-firebase',
+    storageBucket: 'au-ddotx-firebase.appspot.com',
+    messagingSenderId: '1070705907456',
+    appId: '1:1070705907456:web:dee7b132f8e4e7665d45e5'
   },
   api: {
 
   }
-};
+}
 
 /*
  * For easier debugging in development mode, you can import the following file
@@ -19,4 +24,4 @@ export const environment = {
  * This import should be commented out in production mode because it will have a negative impact
  * on performance if an error is thrown.
  */
-import 'zone.js/plugins/zone-error';  // Included with Angular CLI.
+import 'zone.js/plugins/zone-error'  // Included with Angular CLI.
