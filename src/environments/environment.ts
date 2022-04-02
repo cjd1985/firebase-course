@@ -6,12 +6,12 @@ export const environment = {
   production: false,
   useEmulators: true,
   firebase: {
-      apiKey: "AIzaSyB9LOREMGhj1jpVXOHTKIwQu2oM7pVfjQg",
-      authDomain: "fir-course-recording-c7f3e.firebaseapp.com",
-      projectId: "fir-course-recording-c7f3e",
-      storageBucket: "fir-course-recording-c7f3e.appspot.com",
-      messagingSenderId: "927953565493",
-      appId: "1:927953565493:web:0d4a8e79cc45fd38733e7c"
+    apiKey: "AIzaSyDg2a5g5xlMOc0J3fGZLa_8kCmqDTqXa3s",
+    authDomain: "au-ddotx-firebase.firebaseapp.com",
+    projectId: "au-ddotx-firebase",
+    storageBucket: "au-ddotx-firebase.appspot.com",
+    messagingSenderId: "1070705907456",
+    appId: "1:1070705907456:web:dee7b132f8e4e7665d45e5"
   },
   api: {
       createUser: "http://localhost:5001/fir-course-recording-c7f3e/us-central1/createUser"
